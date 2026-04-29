@@ -125,7 +125,7 @@ flutter run
 
 ## 👨‍💻 Author
 
-**Ayush Shrivastav**
+**Ayush Shrivastava**
 
 ---
 
